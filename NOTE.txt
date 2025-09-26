@@ -1,0 +1,7 @@
+1) Kindly turn on iterative calculation in excel for model to work properly.
+   STEPS:
+   Go to File > Options > Formulas and select the Enable iterative calculation check box.
+
+2) If the assumptions/inputs needed to be changed, it could be changed using the Inputs/Assumption sheet in the model.
+
+3) Kindly do not edit any element in the core model as it may disturb the whole flow of the components in the model.
